@@ -1,0 +1,3 @@
+myDict = {"name": "Kefira", "age" : 7, "hobbies" : "eating"}
+print[f'(myDict{"name"}, "age")]
+print(f'My dogs name is {myDict["name"]}), she is {myDict["age"]})
