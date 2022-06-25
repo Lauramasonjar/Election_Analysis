@@ -40,6 +40,8 @@ The analysis of the election show that:
 
 - The county with the largest voter turnout was:
   - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+
+![analysis_results](https://github.com/Lauramasonjar/Election_Analysis/blob/main/analysis/election_analysis%20screenshot.png)
   
 ## Election-Audit Summary
 
